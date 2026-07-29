@@ -11,23 +11,6 @@ This repository contains all the LeetCode problems I have solved and will contin
 - 📈 Regularly updated with new problems.
 - 📝 Includes clean, readable, and well-commented code whenever necessary.
 
-## 📂 Repository Structure
-
-```
-├── Arrays/
-├── Strings/
-├── Linked List/
-├── Trees/
-├── Graphs/
-├── Dynamic Programming/
-├── Greedy/
-├── Binary Search/
-├── Stack/
-├── Queue/
-├── Heap/
-├── Backtracking/
-└── ...
-```
 
 > Problems are organized by topic to make navigation easier.
 
