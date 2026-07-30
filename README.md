@@ -64,6 +64,7 @@ I aim to solve LeetCode problems regularly and keep this repository updated.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/prakharr-cmd/Leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/prakharr-cmd/Leetcode-questions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +73,5 @@ I aim to solve LeetCode problems regularly and keep this repository updated.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/prakharr-cmd/Leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/prakharr-cmd/Leetcode-questions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 <!---LeetCode Topics End-->
