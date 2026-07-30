@@ -57,3 +57,19 @@ I aim to solve LeetCode problems regularly and keep this repository updated.
 
 ### 🌟 Happy Coding!
 *"Consistency beats intensity."*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/prakharr-cmd/Leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/prakharr-cmd/Leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/prakharr-cmd/Leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
+<!---LeetCode Topics End-->
