@@ -68,6 +68,7 @@ I aim to solve LeetCode problems regularly and keep this repository updated.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/prakharr-cmd/Leetcode-questions/tree/main/0058-length-of-last-word/) | Easy |
 | [0412-fizz-buzz](https://github.com/prakharr-cmd/Leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
