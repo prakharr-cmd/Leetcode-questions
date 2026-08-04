@@ -75,4 +75,12 @@ I aim to solve LeetCode problems regularly and keep this repository updated.
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/prakharr-cmd/Leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/prakharr-cmd/Leetcode-questions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/prakharr-cmd/Leetcode-questions/tree/main/0136-single-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/prakharr-cmd/Leetcode-questions/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
